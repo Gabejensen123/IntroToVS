@@ -1,2 +1,4 @@
 introvenv/
 #slash tells pythong to ignore all the files below the parent folder. Ignoring all the files in the virtual environment.
+mallet/
+
