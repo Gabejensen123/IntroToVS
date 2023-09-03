@@ -33,3 +33,6 @@ for x in range(1,5): #picks up at 1 and does not include 5 because it stops at 4
 thelist = list(range(7))
 for b in range(1,7): #ask why is it printing 4 over and over. It is because it is in the previous loop. Do i need to close the previous loop somehow. 
     print(f"The answer is:{thelist[b]}") # need it to update to B!
+
+
+print(f"how are you")
